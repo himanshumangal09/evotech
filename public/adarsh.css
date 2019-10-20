@@ -1,0 +1,17 @@
+#chatapp{
+    color:black;
+}
+.logo a{
+    font-size: 20px;;
+}
+footer{
+    background-color: rgb(2, 13, 49);
+}
+footer p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+#hello h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
